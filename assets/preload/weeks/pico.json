@@ -1,0 +1,50 @@
+{
+	"storyName": "gangbang blamoff",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "phiilly",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"zesty",
+			"sour-pico",
+			[
+				6,
+				255,
+				160
+			]
+		],
+		[
+			"scratched",
+			"sour-pico",
+			[
+				0,
+				235,
+				180
+			]
+		],
+		[
+			"pulp",
+			"sour-pico",
+			[
+				0,
+				195,
+				175
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
