@@ -1,0 +1,18 @@
+<TextureAtlas imagePath="sour darney.png">
+	
+	
+	<SubTexture frameHeight="176" frameWidth="167" frameX="-5" frameY="-10" height="166" name="down instance 10000" width="161" x="50" y="0" />
+	<SubTexture frameHeight="None" frameWidth="None" frameX="None" frameY="None" height="176" name="down instance 10001" width="167" x="211" y="0" />
+	<SubTexture frameHeight="210" frameWidth="172" frameX="0" frameY="-3" height="207" name="idle instance 10000" width="172" x="378" y="0" />
+	<SubTexture frameHeight="210" frameWidth="172" frameX="0" frameY="-3" height="207" name="idle instance 10001" width="172" x="378" y="0" />
+	<SubTexture frameHeight="210" frameWidth="172" frameX="-4" frameY="0" height="210" name="idle instance 10002" width="167" x="0" y="207" />
+	<SubTexture frameHeight="210" frameWidth="172" frameX="-4" frameY="0" height="210" name="idle instance 10003" width="167" x="0" y="207" />
+	<SubTexture frameHeight="210" frameWidth="172" frameX="-4" frameY="-1" height="210" name="idle instance 10004" width="166" x="167" y="207" />
+	<SubTexture frameHeight="210" frameWidth="172" frameX="-4" frameY="-1" height="210" name="idle instance 10005" width="166" x="167" y="207" />
+	<SubTexture frameHeight="209" frameWidth="184" frameX="0" frameY="-2" height="207" name="left instance 10000" width="178" x="333" y="207" />
+	<SubTexture frameHeight="209" frameWidth="184" frameX="-1" frameY="-2" height="207" name="left instance 10001" width="183" x="550" y="0" />
+	<SubTexture frameHeight="209" frameWidth="174" frameX="-7" frameY="-2" height="207" name="right instance 10000" width="167" x="511" y="207" />
+	<SubTexture frameHeight="209" frameWidth="174" frameX="0" frameY="0" height="209" name="right instance 10001" width="161" x="333" y="414" />
+	<SubTexture frameHeight="221" frameWidth="151" frameX="0" frameY="0" height="221" name="up instance 10000" width="150" x="494" y="414" />
+	<SubTexture frameHeight="221" frameWidth="151" frameX="-3" frameY="-13" height="208" name="up instance 10001" width="148" x="644" y="414" />
+</TextureAtlas>

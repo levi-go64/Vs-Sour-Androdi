@@ -1,0 +1,18 @@
+<TextureAtlas imagePath="bfsour.png">
+	
+	
+	<SubTexture frameHeight="198" frameWidth="200" frameX="0" frameY="-6" height="192" name="down instance 10000" width="200" x="50" y="0" />
+	<SubTexture frameHeight="198" frameWidth="200" frameX="-6" frameY="0" height="198" name="down instance 10001" width="193" x="250" y="0" />
+	<SubTexture frameHeight="213" frameWidth="185" frameX="0" frameY="-8" height="205" name="idle instance 10000" width="185" x="444" y="0" />
+	<SubTexture frameHeight="213" frameWidth="185" frameX="0" frameY="-8" height="205" name="idle instance 10001" width="185" x="444" y="0" />
+	<SubTexture frameHeight="213" frameWidth="185" frameX="-5" frameY="-2" height="212" name="idle instance 10002" width="176" x="0" y="205" />
+	<SubTexture frameHeight="213" frameWidth="185" frameX="-5" frameY="-2" height="212" name="idle instance 10003" width="176" x="0" y="205" />
+	<SubTexture frameHeight="213" frameWidth="185" frameX="-6" frameY="0" height="213" name="idle instance 10004" width="174" x="176" y="205" />
+	<SubTexture frameHeight="213" frameWidth="185" frameX="-6" frameY="0" height="213" name="idle instance 10005" width="174" x="176" y="205" />
+	<SubTexture frameHeight="214" frameWidth="174" frameX="0" frameY="-1" height="213" name="left instance 10000" width="173" x="351" y="205" />
+	<SubTexture frameHeight="214" frameWidth="174" frameX="-3" frameY="0" height="214" name="left instance 10001" width="171" x="0" y="419" />
+	<SubTexture frameHeight="215" frameWidth="166" frameX="-1" frameY="-1" height="214" name="right instance 10000" width="166" x="171" y="419" />
+	<SubTexture frameHeight="215" frameWidth="166" frameX="0" frameY="0" height="215" name="right instance 10001" width="166" x="337" y="419" />
+	<SubTexture frameHeight="229" frameWidth="170" frameX="-2" frameY="0" height="229" name="up instance 10000" width="167" x="629" y="0" />
+	<SubTexture frameHeight="229" frameWidth="170" frameX="0" frameY="-5" height="225" name="up instance 10001" width="170" x="524" y="229" />
+</TextureAtlas>

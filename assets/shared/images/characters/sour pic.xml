@@ -1,0 +1,18 @@
+<TextureAtlas imagePath="sour pic.png">
+	
+	
+	<SubTexture frameHeight="203" frameWidth="209" frameX="0" frameY="0" height="203" name="pico down instance 10000" width="205" x="50" y="0" />
+	<SubTexture frameHeight="203" frameWidth="209" frameX="-13" frameY="-1" height="202" name="pico down instance 10001" width="196" x="255" y="0" />
+	<SubTexture frameHeight="225" frameWidth="230" frameX="-4" frameY="0" height="224" name="pico idle instance 10000" width="227" x="452" y="0" />
+	<SubTexture frameHeight="225" frameWidth="230" frameX="-4" frameY="0" height="224" name="pico idle instance 10001" width="227" x="452" y="0" />
+	<SubTexture frameHeight="225" frameWidth="230" frameX="0" frameY="-2" height="224" name="pico idle instance 10002" width="227" x="0" y="224" />
+	<SubTexture frameHeight="225" frameWidth="230" frameX="0" frameY="-2" height="224" name="pico idle instance 10003" width="227" x="0" y="224" />
+	<SubTexture frameHeight="225" frameWidth="230" frameX="0" frameY="-4" height="222" name="pico idle instance 10004" width="227" x="227" y="224" />
+	<SubTexture frameHeight="225" frameWidth="230" frameX="0" frameY="-4" height="222" name="pico idle instance 10005" width="227" x="227" y="224" />
+	<SubTexture frameHeight="230" frameWidth="230" frameX="0" frameY="0" height="230" name="pico left instance 10000" width="224" x="454" y="224" />
+	<SubTexture frameHeight="230" frameWidth="230" frameX="-1" frameY="-2" height="228" name="pico left instance 10001" width="229" x="0" y="454" />
+	<SubTexture frameHeight="226" frameWidth="228" frameX="-8" frameY="0" height="226" name="pico right instance 10000" width="220" x="229" y="454" />
+	<SubTexture frameHeight="226" frameWidth="228" frameX="0" frameY="-2" height="224" name="pico right instance 10001" width="224" x="449" y="454" />
+	<SubTexture frameHeight="215" frameWidth="209" frameX="-6" frameY="0" height="215" name="pico up instance 10000" width="195" x="679" y="0" />
+	<SubTexture frameHeight="215" frameWidth="209" frameX="0" frameY="-1" height="214" name="pico up instance 10001" width="209" x="679" y="215" />
+</TextureAtlas>

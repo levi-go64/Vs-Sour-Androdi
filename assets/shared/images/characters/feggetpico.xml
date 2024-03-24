@@ -1,0 +1,18 @@
+<TextureAtlas imagePath="feggetpico.png">
+	
+	
+	<SubTexture frameHeight="235" frameWidth="269" frameX="0" frameY="-11" height="224" name="down instance 10000" width="269" x="50" y="0" />
+	<SubTexture frameHeight="235" frameWidth="269" frameX="-7" frameY="0" height="235" name="down instance 10001" width="257" x="319" y="0" />
+	<SubTexture frameHeight="266" frameWidth="292" frameX="0" frameY="-7" height="259" name="left instance 10000" width="273" x="0" y="235" />
+	<SubTexture frameHeight="266" frameWidth="292" frameX="-31" frameY="0" height="260" name="left instance 10001" width="262" x="577" y="0" />
+	<SubTexture frameHeight="273" frameWidth="289" frameX="0" frameY="-17" height="255" name="pico idle instance 10000" width="289" x="273" y="235" />
+	<SubTexture frameHeight="273" frameWidth="289" frameX="0" frameY="-17" height="255" name="pico idle instance 10001" width="289" x="273" y="235" />
+	<SubTexture frameHeight="273" frameWidth="289" frameX="-17" frameY="-2" height="271" name="pico idle instance 10002" width="261" x="562" y="260" />
+	<SubTexture frameHeight="273" frameWidth="289" frameX="-17" frameY="-2" height="271" name="pico idle instance 10003" width="261" x="562" y="260" />
+	<SubTexture frameHeight="273" frameWidth="289" frameX="-21" frameY="0" height="273" name="pico idle instance 10004" width="256" x="0" y="531" />
+	<SubTexture frameHeight="273" frameWidth="289" frameX="-21" frameY="0" height="273" name="pico idle instance 10005" width="256" x="0" y="531" />
+	<SubTexture frameHeight="267" frameWidth="247" frameX="-15" frameY="0" height="267" name="right instance 10000" width="232" x="256" y="531" />
+	<SubTexture frameHeight="267" frameWidth="247" frameX="0" frameY="0" height="267" name="right instance 10001" width="234" x="489" y="531" />
+<SubTexture frameHeight="290" frameWidth="223" frameX="-10" frameY="0" height="290" name="up instance 10000" width="204" x="839" y="0" />
+	<SubTexture frameHeight="290" frameWidth="223" frameX="-6" frameY="-10" height="280" name="up instance 10001" width="212" x="824" y="290" />
+</TextureAtlas>

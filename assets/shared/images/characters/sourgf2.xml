@@ -1,0 +1,115 @@
+<TextureAtlas imagePath="sourgf2.png">
+	
+	
+	<SubTexture frameHeight="197" frameWidth="153" frameX="0" frameY="-4" height="193" name="GF Cheer instance 10000" width="152" x="2" y="2" />
+	<SubTexture frameHeight="197" frameWidth="153" frameX="0" frameY="-4" height="193" name="GF Cheer instance 10001" width="152" x="154" y="2" />
+	<SubTexture frameHeight="197" frameWidth="153" frameX="-7" frameY="0" height="197" name="GF Cheer instance 10002" width="146" x="307" y="2" />
+	<SubTexture frameHeight="197" frameWidth="153" frameX="-7" frameY="0" height="197" name="GF Cheer instance 10003" width="146" x="453" y="2" />
+	<SubTexture frameHeight="197" frameWidth="153" frameX="-7" frameY="0" height="197" name="GF Cheer instance 10004" width="146" x="600" y="2" />
+	<SubTexture frameHeight="197" frameWidth="153" frameX="-7" frameY="0" height="197" name="GF Cheer instance 10005" width="146" x="746" y="2" />
+	<SubTexture frameHeight="197" frameWidth="153" frameX="-7" frameY="0" height="197" name="GF Cheer instance 10006" width="146" x="893" y="2" />
+	<SubTexture frameHeight="197" frameWidth="153" frameX="-7" frameY="0" height="197" name="GF Cheer instance 10007" width="146" x="1039" y="2" />
+	<SubTexture frameHeight="197" frameWidth="153" frameX="-7" frameY="0" height="197" name="GF Cheer instance 10008" width="146" x="1186" y="2" />
+	<SubTexture frameHeight="197" frameWidth="153" frameX="-7" frameY="0" height="197" name="GF Cheer instance 10009" width="146" x="1332" y="2" />
+	<SubTexture frameHeight="197" frameWidth="153" frameX="-7" frameY="0" height="197" name="GF Cheer instance 10010" width="146" x="1479" y="2" />
+	<SubTexture frameHeight="197" frameWidth="153" frameX="-7" frameY="0" height="197" name="GF Cheer instance 10011" width="146" x="1625" y="2" />
+	<SubTexture frameHeight="197" frameWidth="153" frameX="-7" frameY="0" height="197" name="GF Cheer instance 10012" width="146" x="1772" y="2" />
+	<SubTexture frameHeight="197" frameWidth="153" frameX="-7" frameY="0" height="197" name="GF Cheer instance 10013" width="146" x="2" y="199" />
+	<SubTexture frameHeight="197" frameWidth="153" frameX="-7" frameY="0" height="197" name="GF Cheer instance 10014" width="146" x="148" y="199" />
+	<SubTexture frameHeight="197" frameWidth="153" frameX="-7" frameY="0" height="197" name="GF Cheer instance 10015" width="146" x="295" y="199" />
+	<SubTexture frameHeight="197" frameWidth="153" frameX="-7" frameY="0" height="197" name="GF Cheer instance 10016" width="146" x="441" y="199" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-1" frameY="-14" height="198" name="GF Dancing Beat instance 10000" width="147" x="588" y="199" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-1" frameY="-14" height="198" name="GF Dancing Beat instance 10001" width="147" x="735" y="199" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-1" frameY="-15" height="197" name="GF Dancing Beat instance 10002" width="147" x="882" y="199" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-1" frameY="-15" height="197" name="GF Dancing Beat instance 10003" width="147" x="1029" y="199" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-1" frameY="-14" height="198" name="GF Dancing Beat instance 10004" width="147" x="1176" y="199" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-1" frameY="-14" height="198" name="GF Dancing Beat instance 10005" width="147" x="1323" y="199" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-2" frameY="-15" height="197" name="GF Dancing Beat instance 10006" width="148" x="1471" y="199" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-8" frameY="-5" height="206" name="GF Dancing Beat instance 10007" width="149" x="1619" y="199" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-8" frameY="-5" height="206" name="GF Dancing Beat instance 10008" width="149" x="1768" y="199" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-8" frameY="-5" height="206" name="GF Dancing Beat instance 10009" width="149" x="2" y="406" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-2" frameY="-2" height="209" name="GF Dancing Beat instance 10010" width="153" x="151" y="406" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-2" frameY="-2" height="209" name="GF Dancing Beat instance 10011" width="153" x="305" y="406" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-2" frameY="-2" height="209" name="GF Dancing Beat instance 10012" width="153" x="458" y="406" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="0" frameY="0" height="211" name="GF Dancing Beat instance 10013" width="156" x="612" y="406" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="0" frameY="0" height="211" name="GF Dancing Beat instance 10014" width="156" x="768" y="406" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-7" frameY="-3" height="208" name="GF Dancing Beat instance 10015" width="156" x="924" y="406" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-7" frameY="-3" height="208" name="GF Dancing Beat instance 10016" width="156" x="1080" y="406" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-9" frameY="-4" height="207" name="GF Dancing Beat instance 10017" width="153" x="1237" y="406" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-9" frameY="-4" height="207" name="GF Dancing Beat instance 10018" width="153" x="1390" y="406" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-12" frameY="-5" height="206" name="GF Dancing Beat instance 10019" width="149" x="1543" y="406" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-12" frameY="-5" height="206" name="GF Dancing Beat instance 10020" width="149" x="1692" y="406" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-14" frameY="-7" height="204" name="GF Dancing Beat instance 10021" width="147" x="1842" y="406" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-11" frameY="-13" height="198" name="GF Dancing Beat instance 10022" width="146" x="2" y="617" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-11" frameY="-13" height="198" name="GF Dancing Beat instance 10023" width="146" x="148" y="617" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-11" frameY="-13" height="198" name="GF Dancing Beat instance 10024" width="146" x="295" y="617" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-9" frameY="-13" height="198" name="GF Dancing Beat instance 10025" width="148" x="441" y="617" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-9" frameY="-13" height="198" name="GF Dancing Beat instance 10026" width="148" x="589" y="617" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-9" frameY="-13" height="198" name="GF Dancing Beat instance 10027" width="148" x="737" y="617" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-8" frameY="-13" height="198" name="GF Dancing Beat instance 10028" width="148" x="885" y="617" />
+	<SubTexture frameHeight="212" frameWidth="163" frameX="-8" frameY="-13" height="198" name="GF Dancing Beat instance 10029" width="148" x="1033" y="617" />
+	<SubTexture frameHeight="196" frameWidth="163" frameX="-1" frameY="0" height="195" name="GF FEAR  instance 10000" width="162" x="1181" y="617" />
+	<SubTexture frameHeight="196" frameWidth="163" frameX="-2" frameY="0" height="196" name="GF FEAR  instance 10001" width="161" x="1344" y="617" />
+	<SubTexture frameHeight="196" frameWidth="163" frameX="-2" frameY="-1" height="194" name="GF FEAR  instance 10002" width="162" x="1505" y="617" />
+	<SubTexture frameHeight="196" frameWidth="163" frameX="0" frameY="0" height="195" name="GF FEAR  instance 10003" width="163" x="1667" y="617" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="0" frameY="-13" height="196" name="GF rave instance 10000" width="150" x="1830" y="617" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="0" frameY="-13" height="196" name="GF rave instance 10001" width="150" x="2" y="815" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="0" frameY="-14" height="195" name="GF rave instance 10002" width="149" x="152" y="815" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="0" frameY="-14" height="195" name="GF rave instance 10003" width="149" x="301" y="815" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-2" frameY="-14" height="195" name="GF rave instance 10004" width="148" x="451" y="815" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-2" frameY="-14" height="195" name="GF rave instance 10005" width="148" x="599" y="815" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-4" frameY="-14" height="194" name="GF rave instance 10006" width="147" x="748" y="815" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-10" frameY="-5" height="203" name="GF rave instance 10007" width="149" x="895" y="815" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-10" frameY="-5" height="203" name="GF rave instance 10008" width="149" x="1045" y="815" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-10" frameY="-5" height="203" name="GF rave instance 10009" width="149" x="1194" y="815" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-4" frameY="-2" height="206" name="GF rave instance 10010" width="154" x="1344" y="815" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-4" frameY="-2" height="206" name="GF rave instance 10011" width="154" x="1498" y="815" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-4" frameY="-2" height="206" name="GF rave instance 10012" width="154" x="1653" y="815" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-2" frameY="0" height="208" name="GF rave instance 10013" width="156" x="1807" y="815" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-2" frameY="0" height="208" name="GF rave instance 10014" width="156" x="2" y="1023" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-9" frameY="-2" height="205" name="GF rave instance 10015" width="157" x="158" y="1023" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-9" frameY="-2" height="205" name="GF rave instance 10016" width="157" x="315" y="1023" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-11" frameY="-3" height="204" name="GF rave instance 10017" width="155" x="473" y="1023" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-11" frameY="-3" height="204" name="GF rave instance 10018" width="155" x="628" y="1023" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-13" frameY="-5" height="203" name="GF rave instance 10019" width="153" x="784" y="1023" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-13" frameY="-5" height="203" name="GF rave instance 10020" width="153" x="937" y="1023" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-16" frameY="-6" height="201" name="GF rave instance 10021" width="148" x="1090" y="1023" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-12" frameY="-12" height="196" name="GF rave instance 10022" width="147" x="1238" y="1023" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-12" frameY="-12" height="196" name="GF rave instance 10023" width="147" x="1385" y="1023" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-12" frameY="-12" height="196" name="GF rave instance 10024" width="147" x="1532" y="1023" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-10" frameY="-12" height="196" name="GF rave instance 10025" width="148" x="1679" y="1023" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-10" frameY="-12" height="196" name="GF rave instance 10026" width="148" x="1828" y="1023" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-10" frameY="-12" height="196" name="GF rave instance 10027" width="148" x="2" y="1231" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-10" frameY="-13" height="195" name="GF rave instance 10028" width="148" x="150" y="1231" />
+	<SubTexture frameHeight="209" frameWidth="166" frameX="-10" frameY="-13" height="195" name="GF rave instance 10029" width="148" x="298" y="1231" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="0" frameY="-4" height="193" name="gf sad instance 10000" width="150" x="446" y="1231" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="0" frameY="-4" height="193" name="gf sad instance 10001" width="150" x="596" y="1231" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10002" width="147" x="746" y="1231" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10003" width="147" x="893" y="1231" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10004" width="147" x="1040" y="1231" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10005" width="147" x="1187" y="1231" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10006" width="147" x="1334" y="1231" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10007" width="147" x="1481" y="1231" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10008" width="147" x="1628" y="1231" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10009" width="147" x="1775" y="1231" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10010" width="147" x="2" y="1428" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10011" width="147" x="149" y="1428" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10012" width="147" x="296" y="1428" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10013" width="147" x="443" y="1428" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10014" width="147" x="590" y="1428" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10015" width="147" x="737" y="1428" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10016" width="147" x="884" y="1428" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10017" width="147" x="1031" y="1428" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10018" width="147" x="1178" y="1428" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10019" width="147" x="1325" y="1428" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10020" width="147" x="1472" y="1428" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10021" width="147" x="1619" y="1428" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10022" width="147" x="1766" y="1428" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10023" width="147" x="2" y="1625" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10024" width="147" x="149" y="1625" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10025" width="147" x="296" y="1625" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10026" width="147" x="443" y="1625" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10027" width="147" x="590" y="1625" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10028" width="147" x="737" y="1625" />
+	<SubTexture frameHeight="197" frameWidth="150" frameX="-4" frameY="0" height="197" name="gf sad instance 10029" width="147" x="884" y="1625" />
+</TextureAtlas>
