@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				30315.7894736842,
+				[
+					[
+						"Change Character",
+						"dad",
+						"satyrus"
+					]
+				]
+			],
+			[
+				30789.4736842105,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			]
+		]
+	}
+}
