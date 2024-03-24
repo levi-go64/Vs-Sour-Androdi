@@ -1,0 +1,9 @@
+{
+	"directory": "mods",
+	"defaultZoom": 0.8,
+	"isPixelStage": false,
+
+	"boyfriend": [770, 130],
+	"girlfriend": [550, 130],
+	"opponent": [100, 100]
+}

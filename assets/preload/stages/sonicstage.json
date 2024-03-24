@@ -1,0 +1,22 @@
+{
+	"directory": "mods",
+	"defaultZoom": 0.8,
+	"isPixelStage": false,
+
+	"boyfriend": [920, 220],
+	"girlfriend": [450, 200],
+	"opponent": [0, 200],
+"camera_boyfriend": [
+    -300,
+    -120
+  ],
+  "camera_opponent": [
+    0,
+    -150
+  ],
+  "camera_girlfriend": [
+    -170,
+    -150
+  ],
+  "camera_speed": 1.0
+}
