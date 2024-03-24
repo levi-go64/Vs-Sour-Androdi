@@ -1,0 +1,78 @@
+{
+    "animations": [
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "dave idle"
+        },
+        {
+            "offsets": [
+                -2,
+                1
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "dave left"
+        },
+        {
+            "offsets": [
+                -24,
+                -6
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "dave DOWN"
+        },
+        {
+            "offsets": [
+                -11,
+                16
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "dave up"
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -4,
+                2
+            ],
+            "anim": "singRIGHT",
+            "fps": 24,
+            "name": "dave right",
+            "indices": []
+        }
+    ],
+    "no_antialiasing": false,
+    "image": "characters/pahntome",
+    "position": [
+        170,
+        170
+    ],
+    "healthicon": "dave",
+    "flip_x": false,
+    "healthbar_colors": [
+        255,
+        178,
+        0
+    ],
+    "camera_position": [
+        95,
+        0
+    ],
+    "sing_duration": 6.1,
+    "scale": 2.3
+}

@@ -1,0 +1,78 @@
+{
+    "animations": [
+        {
+            "loop": false,
+            "offsets": [
+                110,
+                -85
+            ],
+            "anim": "idle",
+            "fps": 24,
+            "name": "idle",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                130,
+                -87
+            ],
+            "anim": "singLEFT",
+            "fps": 24,
+            "name": "left",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                110,
+                -178
+            ],
+            "anim": "singDOWN",
+            "fps": 24,
+            "name": "down",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                125,
+                -71
+            ],
+            "anim": "singUP",
+            "fps": 24,
+            "name": "up",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                108,
+                -87
+            ],
+            "anim": "singRIGHT",
+            "fps": 24,
+            "name": "right",
+            "indices": []
+        }
+    ],
+    "no_antialiasing": false,
+    "image": "characters/sour darney",
+    "position": [
+        -20,
+        175
+    ],
+    "healthicon": "darnell",
+    "flip_x": false,
+    "healthbar_colors": [
+        193,
+        67,
+        255
+    ],
+    "camera_position": [
+        -25,
+        25
+    ],
+    "sing_duration": 6.1,
+    "scale": 2.6
+}
